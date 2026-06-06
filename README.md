@@ -11,5 +11,7 @@
 <img width="856" height="627" alt="image" src="https://github.com/user-attachments/assets/04d9c0d6-2411-4445-af95-f3b3a747cb2f" />
 <img width="875" height="309" alt="image" src="https://github.com/user-attachments/assets/b98ac79c-fa81-4b47-b608-1edbacccf6ad" />
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c0c0f496-4363-40ea-af8a-5c5af3fd3536" />
+<h3>Global company for hadoop wordcouts crazy things</h3>
+<img width="889" height="584" alt="image" src="https://github.com/user-attachments/assets/54ee0fe3-b823-438b-91a3-ca49f971cd41" />
 
 
